@@ -4,6 +4,11 @@ prerequsite
 - flask
 - virtualenv
 
+pre run
+> virtualenv venv
+> pip install -r requirement.txt
+
+
 run
 python hello.py
 
